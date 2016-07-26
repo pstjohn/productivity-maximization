@@ -1,0 +1,8 @@
+# Not a complete list, (also not pip-installable)
+
+python==3.5.1
+numpy==1.11.0
+pandas==0.18.1
+matplotlib==1.5.1
+seaborn==0.8.dev
+casadi==3.0.1
